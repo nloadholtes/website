@@ -7,6 +7,9 @@ url: "http://jsys.org/" # the base hostname & protocol for your site
 twitter_username: jsysresearch
 github_username:  jsysresearch
 
+social:
+  rss: feed.xml
+
 # Build settings
 markdown: kramdown
 
